@@ -36,6 +36,27 @@ Ubuntutu codes
 2. 
 
 
+Mongoldb
+
+    1. To start mongoldb , open terminal , paste       sudo mongod --dbpath=/Users/rajkumar/data/db.  , if all the settings is already done on macOS  , open db guy and you will see your connection
+
+
+
+GITHUB CODES
+
+    1.  After changing something locally , now push them
+    2.    git add .     // staging
+    3.     Git commit -m “added some features”
+    4.      git push
+
+
+          Ubuntutu codes
+
+1.  Reload nginx after changes —    sudo systemctl reload nginx
+2. 
+
+
+
 
 
 
