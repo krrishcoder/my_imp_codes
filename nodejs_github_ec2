@@ -12,6 +12,21 @@ GITHUB CODES
     3.     Git commit -m “added some features”
     4.      git push
 
+During first time of intialization of project :
+on local system 
+
+Git init
+git status
+
+git add . { add to staging area }
+git commit -m "first commit"
+
+//adding to  remote origin
+
+git remote add origin https://github.com/krrishcoder/demo_projk.git
+git branch -M main
+git push -u origin main
+
 
 
 
@@ -19,3 +34,8 @@ Ubuntutu codes
 
 1.  Reload nginx after changes —    sudo systemctl reload nginx
 2. 
+
+
+
+
+
